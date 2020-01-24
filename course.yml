@@ -1,4 +1,7 @@
-title: Introduction to R for Epidemiology
-description: Course description goes here.
+title: Introduction to Epidemiology in R
+description: >-
+  Apply R skills to current epidemiologic concepts and research design. Topics
+  include measures of disease occurrence and effect, diagnostics, causal
+  inference, research design, and common sources of bias.
 programming_language: r
 from: 'r-base-prod:v1.0.2'
