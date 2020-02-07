@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Importing and Manipulating Epidemiological Datasets'
 description: 'Chapter description goes here.'
 ---
 
